@@ -1,7 +1,7 @@
 ## Hi, I’m Jailson! 👋 
 
 - Just call me Jai ☺️
-- I’m currently studying Typescript, Reactjs, Jest and Java 🧐
+- I’m currently studying Typescript, Reactjs, Styled-Components, Jest and Java 🧐
 
 
 <!---
